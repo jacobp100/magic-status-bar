@@ -8,7 +8,7 @@ Replaces the system status bar for preparation for App/Play Store screenshots. S
 
 Wrap your root component in `MagicStatusBar`. Props accepted mimick the props for React Native's [StatusBar component](1).
 
-```js
+```jsx
 <MagicStatusBar>
   <YourRootView />
 </MagicStatusBar>
