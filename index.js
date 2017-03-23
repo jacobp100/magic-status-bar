@@ -1,1 +1,1 @@
-export { default } from './components/CheekyStatusBar';
+export { default } from './components/StatusBar';

@@ -1,19 +1,32 @@
 {
   "name": "magic-status-bar",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Replaces the system status bar for preparation for App/Play Store screenshots",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "eslint": "^3.18.0",
     "eslint-config-airbnb": "^14.1.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-react": "^6.10.3"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobp100/magic-status-bar.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobp100/magic-status-bar/issues"
+  },
+  "homepage": "https://github.com/jacobp100/magic-status-bar#readme"
 }
